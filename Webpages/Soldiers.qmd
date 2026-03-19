@@ -1,5 +1,0 @@
----
-title: "Soldiers"
-format: html
----
-
